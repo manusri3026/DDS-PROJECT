@@ -1,11 +1,11 @@
 
 # Ride-Sharing Dispatch Simulator
-##📌 Overview
+## 📌 Overview
 
 A command-line ride-sharing dispatch system that matches riders to drivers based on proximity (distance) and driver rating. Designed as a Data Structures project using queues for incoming ride requests and priority queues (min-heap) for intelligent driver matching.
 
 ---
-##🛠 Features
+## 🛠 Features
 ---
 - Assign drivers to riders based on nearest distance first
 - Use driver ratings as a tiebreaker for fairness and quality
