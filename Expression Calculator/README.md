@@ -1,5 +1,5 @@
 # Expression Calculator
-##📌 Overview
+## 📌 Overview
 
 A command-line calculator to convert and evaluate mathematical expressions.
 Built as a Data Structures project using stacks for infix-to-postfix conversion and postfix evaluation.
@@ -17,8 +17,8 @@ Supports operator precedence and parentheses for correct expression handling.
 ---
 
 ## 📂 Data Structures Used
--Stack → For infix-to-postfix conversion
--Stack → For postfix evaluation
+- Stack → For infix-to-postfix conversion
+- Stack → For postfix evaluation
 
 ---
 
