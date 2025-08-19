@@ -8,16 +8,16 @@ Displays the movement of disks across rods using an ASCII-based visual output af
 ---
 ## 🛠 Features
 ---
--Solve Tower of Hanoi using recursion
--Visualize each move with ASCII rods and disks
--Show step-by-step or automatic execution
--Count total moves and compare with optimal moves
+- Solve Tower of Hanoi using recursion
+- Visualize each move with ASCII rods and disks
+- Show step-by-step or automatic execution
+- Count total moves and compare with optimal moves
 
 ---
 
 ## 📂 Data Structures Used
--Recursion → For solving the puzzle
--List (stack-like operations) → To represent rods and disk movements
+- Recursion → For solving the puzzle
+- List (stack-like operations) → To represent rods and disk movements
 
 ---
 
